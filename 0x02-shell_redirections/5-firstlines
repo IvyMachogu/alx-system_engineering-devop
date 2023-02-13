@@ -1,2 +1,2 @@
 #!/bin/bash
-head /ect/paswd
+head /ect/passwd
